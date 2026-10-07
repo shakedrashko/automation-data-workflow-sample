@@ -1,0 +1,10 @@
+record_id,name,category,status,reference,note
+R-001,  Northline Tools,Hardware,active,NL-100,Ready
+R-002,Bright  Studio,Design,Active ,BS-024,  Needs review
+R-003,Harbor Foods,food,pending,HF-007,Awaiting reply
+R-004,Vale Analytics,Data,ACTIVE,VA-041,Ready
+R-005,Northline Tools,Hardware,Active,NL-100,Duplicate import
+R-006,Cedar Labs,Unknown,pending,CL-003,Category unclear
+R-007,Pine & Co,design,inactive,PC-013,Archived
+R-008,Harbor Foods ,Food,Pending,HF-008, Follow up 
+
